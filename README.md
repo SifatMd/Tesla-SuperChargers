@@ -3,7 +3,7 @@ Visualizing all the Tesla Superchargers available in North America using Python 
 
 Click here to view site: https://sifatmd.github.io/Tesla-SuperChargers/
 
-*More than 1000 markers are produced which increases latency and slows loading the site*
+*Loading all points take a lot of time. I am only visualizing 150 points here.*
 
 ---
 
